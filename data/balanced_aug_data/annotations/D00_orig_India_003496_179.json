@@ -1,0 +1,17 @@
+{
+  "file_name": "D00_orig_India_003496_179.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        368,
+        506,
+        46,
+        150
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "file_name": "D00_orig_India_007000_97.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        577,
+        480,
+        69,
+        54
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        651,
+        536,
+        69,
+        54
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        414,
+        420,
+        69,
+        54
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        235,
+        506,
+        86,
+        99
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    }
+  ]
+}

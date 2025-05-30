@@ -1,0 +1,17 @@
+{
+  "file_name": "D50_aug8_India_009635_269.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        533.0448019135945,
+        80.1971436509366,
+        95.3692894526489
+      ],
+      "category_id": 9.0,
+      "category_name": "D50"
+    }
+  ]
+}

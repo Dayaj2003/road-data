@@ -1,0 +1,37 @@
+{
+  "file_name": "D11_orig_India_000078_6.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        417,
+        501,
+        97,
+        116
+      ],
+      "category_id": 4,
+      "category_name": "D11"
+    },
+    {
+      "bbox": [
+        506,
+        620,
+        91,
+        92
+      ],
+      "category_id": 4,
+      "category_name": "D11"
+    },
+    {
+      "bbox": [
+        161,
+        616,
+        559,
+        63
+      ],
+      "category_id": 4,
+      "category_name": "D11"
+    }
+  ]
+}

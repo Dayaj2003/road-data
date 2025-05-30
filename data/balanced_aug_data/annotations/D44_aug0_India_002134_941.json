@@ -1,0 +1,17 @@
+{
+  "file_name": "D44_aug0_India_002134_941.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        449.5340334892826,
+        208.06485620130962,
+        207.45318052206107
+      ],
+      "category_id": 8.0,
+      "category_name": "D44"
+    }
+  ]
+}

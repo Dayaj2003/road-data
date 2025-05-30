@@ -1,0 +1,17 @@
+{
+  "file_name": "D11_aug3_India_009888_166.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        589.0667697768095,
+        475.42723557294477,
+        111.33165599489962
+      ],
+      "category_id": 4.0,
+      "category_name": "D11"
+    }
+  ]
+}

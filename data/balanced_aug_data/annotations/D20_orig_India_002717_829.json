@@ -1,0 +1,17 @@
+{
+  "file_name": "D20_orig_India_002717_829.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        332,
+        522,
+        208,
+        149
+      ],
+      "category_id": 5,
+      "category_name": "D20"
+    }
+  ]
+}

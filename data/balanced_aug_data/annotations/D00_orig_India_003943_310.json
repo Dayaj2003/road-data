@@ -1,0 +1,77 @@
+{
+  "file_name": "D00_orig_India_003943_310.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        231,
+        595,
+        69,
+        120
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        367,
+        586,
+        47,
+        126
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        467,
+        584,
+        64,
+        136
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        560,
+        602,
+        68,
+        65
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        629,
+        667,
+        50,
+        53
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        64,
+        660,
+        70,
+        60
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    },
+    {
+      "bbox": [
+        138,
+        597,
+        70,
+        60
+      ],
+      "category_id": 1,
+      "category_name": "D00"
+    }
+  ]
+}

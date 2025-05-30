@@ -1,0 +1,17 @@
+{
+  "file_name": "D10_aug2_India_001207_214.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        479.4648740109082,
+        231.9776970373583,
+        110.99105026773412
+      ],
+      "category_id": 3.0,
+      "category_name": "D10"
+    }
+  ]
+}

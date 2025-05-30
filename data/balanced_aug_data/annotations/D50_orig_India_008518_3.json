@@ -1,0 +1,17 @@
+{
+  "file_name": "D50_orig_India_008518_3.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        154,
+        644,
+        100,
+        41
+      ],
+      "category_id": 9,
+      "category_name": "D50"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "file_name": "D11_orig_India_006778_11.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        274,
+        604,
+        282,
+        69
+      ],
+      "category_id": 4,
+      "category_name": "D11"
+    }
+  ]
+}

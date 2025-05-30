@@ -1,0 +1,27 @@
+{
+  "file_name": "D44_orig_India_006497_760.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        1,
+        558,
+        114,
+        70
+      ],
+      "category_id": 8,
+      "category_name": "D44"
+    },
+    {
+      "bbox": [
+        555,
+        551,
+        165,
+        165
+      ],
+      "category_id": 8,
+      "category_name": "D44"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "file_name": "D01_orig_India_009177_55.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        456,
+        516,
+        100,
+        101
+      ],
+      "category_id": 2,
+      "category_name": "D01"
+    },
+    {
+      "bbox": [
+        548,
+        601,
+        103,
+        84
+      ],
+      "category_id": 2,
+      "category_name": "D01"
+    }
+  ]
+}

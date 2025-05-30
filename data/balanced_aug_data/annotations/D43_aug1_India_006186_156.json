@@ -1,0 +1,17 @@
+{
+  "file_name": "D43_aug1_India_006186_156.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        482.8657196927521,
+        530.4713558897506,
+        237.13428030724788
+      ],
+      "category_id": 7.0,
+      "category_name": "D43"
+    }
+  ]
+}

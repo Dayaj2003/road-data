@@ -1,0 +1,17 @@
+{
+  "file_name": "D43_aug9_India_007267_595.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        240.99999904632568,
+        426.9999933242798,
+        233.00002098083496,
+        45.0
+      ],
+      "category_id": 7.0,
+      "category_name": "D43"
+    }
+  ]
+}

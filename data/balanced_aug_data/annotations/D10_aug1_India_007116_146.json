@@ -1,0 +1,17 @@
+{
+  "file_name": "D10_aug1_India_007116_146.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        553.811636437465,
+        488.6372991819986,
+        145.27256139928488
+      ],
+      "category_id": 3.0,
+      "category_name": "D10"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "file_name": "D10_aug4_India_007153_324.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        503.9099282200005,
+        213.53963456780167,
+        122.93299054357607
+      ],
+      "category_id": 3.0,
+      "category_name": "D10"
+    }
+  ]
+}

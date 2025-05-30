@@ -1,0 +1,17 @@
+{
+  "file_name": "D01_aug0_India_009397_181.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        180.0,
+        522.0000171661377,
+        43.99998664855957,
+        148.00000190734863
+      ],
+      "category_id": 2.0,
+      "category_name": "D01"
+    }
+  ]
+}

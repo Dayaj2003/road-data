@@ -1,0 +1,17 @@
+{
+  "file_name": "D43_aug4_India_001960_321.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        0,
+        499.9999809265137,
+        667.0000004768372,
+        121.00002765655518
+      ],
+      "category_id": 7.0,
+      "category_name": "D43"
+    }
+  ]
+}

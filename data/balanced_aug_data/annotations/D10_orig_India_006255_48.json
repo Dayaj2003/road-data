@@ -1,0 +1,47 @@
+{
+  "file_name": "D10_orig_India_006255_48.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        123,
+        538,
+        67,
+        56
+      ],
+      "category_id": 3,
+      "category_name": "D10"
+    },
+    {
+      "bbox": [
+        114,
+        619,
+        67,
+        56
+      ],
+      "category_id": 3,
+      "category_name": "D10"
+    },
+    {
+      "bbox": [
+        272,
+        543,
+        29,
+        32
+      ],
+      "category_id": 3,
+      "category_name": "D10"
+    },
+    {
+      "bbox": [
+        172,
+        511,
+        29,
+        32
+      ],
+      "category_id": 3,
+      "category_name": "D10"
+    }
+  ]
+}

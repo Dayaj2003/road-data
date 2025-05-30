@@ -1,0 +1,27 @@
+{
+  "file_name": "D40_orig_India_005774_1103.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        562,
+        547,
+        158,
+        125
+      ],
+      "category_id": 6,
+      "category_name": "D40"
+    },
+    {
+      "bbox": [
+        339,
+        478,
+        107,
+        34
+      ],
+      "category_id": 6,
+      "category_name": "D40"
+    }
+  ]
+}

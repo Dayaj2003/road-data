@@ -1,0 +1,17 @@
+{
+  "file_name": "D43_orig_India_006562_39.jpg",
+  "height": 720,
+  "width": 720,
+  "annotations": [
+    {
+      "bbox": [
+        1,
+        542,
+        706,
+        159
+      ],
+      "category_id": 7,
+      "category_name": "D43"
+    }
+  ]
+}
